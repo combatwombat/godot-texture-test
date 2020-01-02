@@ -4,4 +4,4 @@ Desktop (Chrome, Safari, Firefox):
 ![Desktop](sc-desktop.png)
 
 Mobile (iOS 13.3):
-![Mobile](sc-mobile.png)
+![Mobile](sc-ios.png)
